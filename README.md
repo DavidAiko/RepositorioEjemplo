@@ -2,8 +2,10 @@
 > ## Finalidad
 > Este repositorio tiene la función de dar a conocer un trabajo/informe con un tutorial acerca del manejo básico-medio de GitHub y Git mediante el entorno IDE IntelliJ.
 
+
 > [!IMPORTANT]
 > Contiene comandos como:
+
 ```
 git init
 git status
@@ -22,7 +24,9 @@ git merge+
 git reverse
 git push origin -- delete rama
 ```
+
 > Y configuración básica de GIT a partir de comandos en terminal
+
 ```
 git config --list
 git config --global user.email
