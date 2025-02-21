@@ -30,4 +30,4 @@ git config --global --unset user.email
 git config --global --unset user.name
 ```
 
-`#0ab6ff` CREADO POR: DAVID AIKO
+![a](https://avatars.githubusercontent.com/u/198132125?s=96&v=4)
