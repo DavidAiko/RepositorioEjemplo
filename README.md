@@ -22,8 +22,7 @@ git merge+
 git reverse
 git push origin -- delete rama
 ```
-
-Y configuración básica de GIT a partir de comandos en terminal
+> Y configuración básica de GIT a partir de comandos en terminal
 ```
 git config --list
 git config --global user.email
