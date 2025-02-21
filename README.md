@@ -1,7 +1,9 @@
-## Finalidad
+> [!NOTE]
+> ## Finalidad
 > Este repositorio tiene la función de dar a conocer un trabajo/informe con un tutorial acerca del manejo básico-medio de GitHub y Git mediante el entorno IDE IntelliJ.
 
-Contiene comandos como:
+> [!IMPORTANT]
+> Contiene comandos como:
 ```
 git init
 git status
